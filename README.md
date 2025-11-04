@@ -1,5 +1,3 @@
-# Virtual Columns in Pandas (Recruitment Task)
-
 This repo contains `solution.py`, which adds a calculated (virtual) column to a pandas DataFrame using a simple expression over existing columns.
 
 - Allowed operators: `+`, `-`, `*`
